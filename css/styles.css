@@ -1,0 +1,33 @@
+div {margin: 5px 100px 25px 10px;}
+h1 {text-align: center;
+     font-size: 40px;
+     font-family: Georgia;}
+h2 {text-align: center;
+     color: rgb(241, 241, 241);
+     font-family: Verdana;
+     font-weight: lighter;
+     font-size: 23px;
+    background-color: rgb(71, 57, 90);}
+p {font-family: Verdana;
+    font-size: 15px;}
+li {font-family: Verdana;
+     font-size: 15px;}
+p.statement {text-align: center;
+              font-size: 17px;
+              font-family: Georgia;}
+p.aboutme {border: 2px solid black;
+            border-radius: 25px;
+            width: 100%;
+            text-align: center;
+            text-align: justify;
+            padding: 20px;
+            margin: auto;}
+h3 {font-size: 25px;
+            font-family: Georgia;
+            Border-left: 6px solid rgb(123, 85, 173);
+            padding-left: 10px;}
+img {padding: 5px;
+     width: 300px;
+      display: block;
+      margin-left: auto;
+      margin-right: auto;}
